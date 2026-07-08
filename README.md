@@ -1,2 +1,1 @@
-# Drivecost
-Know what your car really costs
+module.exports = { plugins: { tailwindcss: {}, autoprefixer: {} } };
